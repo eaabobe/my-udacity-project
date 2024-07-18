@@ -12,17 +12,29 @@ Input 'python bikeshare.py' on your terminal to run this program. The project us
 ### Program Details
 
 •	The user specifies and input for city (chicago, new york city, washington).
+
 •	Then the user input the month and day of the week.
+
 •	Then displays the most common month, day and common start hour.
+
 •	Displays statistics on the most popular stations and trip.
+
 •	Display most commonly used start and end station.
+
 •	Display most frequent combination of start station and end station trip.
+
 •	Displays statistics on the total and average trip duration.
+
 •	Displays statistics on bikeshare users.
+
 •	Display counts of user types.
+
 •	Display counts of gender.
+
 •	Display earliest, most recent, and most common year of birth.
+
 •	Display total and mean travel time.
+
 •	Finally, the user is prompted with the choice of restarting the program or not.
 
 # Application requirements
@@ -40,7 +52,9 @@ Language: Python 3.6 or above with pandas and numpy libraries
 # Programming language used and corresponding libraries
 
 •	[Python 3.6.6](https://www.python.org/) - The language used for development.
+
 •	[pandas](https://pandas.pydata.org/) - Python library used.
+
 •	[numpy](http://www.numpy.org/) - Python library used.
 
 
@@ -51,5 +65,7 @@ Language: Python 3.6 or above with pandas and numpy libraries
 # Acknowledgements
 
 •	Bikeshare website https://www.onbikeshare.com/
+
 •	[pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation. 
+
 •	[Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program resources.
