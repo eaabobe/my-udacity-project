@@ -57,6 +57,8 @@ Language: Python 3.6 or above with pandas and numpy libraries
 
 •	[numpy](http://www.numpy.org/) - Python library used.
 
+•	[time](https://docs.python.org/3/library/time.html) - Python library used.
+
 
 # Author
 
