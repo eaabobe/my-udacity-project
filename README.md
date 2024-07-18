@@ -1,17 +1,17 @@
-# Basic data exploration with pandas on bikeshare data
-A python project using pandas to explore bikeshare data.
+﻿# Basic data exploration with pandas on bikeshare data
+A python project using pandas to explore bikeshare data
 
 # Bikeshare project overview
 
 This project focuses on pandas library usage and a simple statistics methods to perform descriptive analysis on the bikeshare data from three major US cities; Chicago, Washington and New York City - to display statistics information such as most popular days, most common stations and duration of the trip.
 
-### Ho to run the program
+### How to run the program
 
 Input 'python bikeshare.py' on your terminal to run this program. The project used Anaconda's command prompt.
 
 ### Program Details
 
-•	The user specifies and input for city (chicago, new york city, washington).
+•	The user specifies and input for city (Chicago, New York city, Washington).
 
 •	Then the user input the month and day of the week.
 
@@ -39,7 +39,7 @@ Input 'python bikeshare.py' on your terminal to run this program. The project us
 
 # Application requirements
 
-Language: Python 3.6 or above with pandas and numpy libraries
+Language: Python 3.6 or above with pandas,time and numpy libraries
 
 # Data used 
 
@@ -49,7 +49,7 @@ Language: Python 3.6 or above with pandas and numpy libraries
 
 •	washington.csv - Dataset containing the bikeshare information for the city of Washington.
 
-# Programming language used and corresponding libraries
+# Programming language used and corresponding libraries used
 
 •	[Python 3.6.6](https://www.python.org/) - The language used for development.
 
